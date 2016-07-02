@@ -1,1 +1,1 @@
-void sort1(int array[], int size)
+void sort1(int array[], int size);
